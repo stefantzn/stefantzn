@@ -8,6 +8,5 @@
 * 🌱 Currently learning React and Embedded Programming with C
 * 🛠️ Avid learner of new things
 
-<div align="center">
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=stefantzn.stefantzn&left_color=green&right_color=red)
-</div>
+
