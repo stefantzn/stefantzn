@@ -9,5 +9,5 @@
 * 🛠️ Avid learner of new things
 
 <div align="center">
-![visitors](https://visitor-badge.glitch.me/badge?page_id=stefantzn&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=stefantzn.visitor-badge)
 </div>
