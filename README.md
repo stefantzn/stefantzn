@@ -8,7 +8,8 @@
 * 🌱 Currently learning React and Embedded Programming with C
 * 🗣️ I speak English and I'm learning Japanese
 
-<div align="center", style="display: flex; flex-wrap: wrap; justify-content: space-around;">  
+<div align="center">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 
   ## Skills
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
