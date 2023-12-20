@@ -25,8 +25,11 @@
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 
-![](https://komarev.com/ghpvc/?username=stefantzn&color=33FFF6)
 </p>
 
+<div align="center">
 
+  ![](https://komarev.com/ghpvc/?username=stefantzn&color=33FFF6)
+
+</div>
 
