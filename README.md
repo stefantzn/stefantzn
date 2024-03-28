@@ -7,7 +7,6 @@
 * 📚 Computer Engineering Student at the [University of Waterloo](https://uwaterloo.ca/)
 * 🌱 Currently learning Verilog for FPGA development and Embedded Programming with C
 * 🗣️ I speak English and I'm learning Japanese
-* 💼 Seeking Summer 2024 Internship Opportunities
 * 📧 Feel free to contact me at svtuczyn@uwaterloo.ca
 
 <h3 align="center">Skills</h3>
