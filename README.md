@@ -1,7 +1,7 @@
-current computer engineering student at the university of waterloo
+Current Computer Engineering Student at The University of Waterloo, expected to graduate in 2028.
 
-interested in rtl design, embedded systems and hardware acceleration
+Interested in RTL design, embedded systems and hardware acceleration.
 
-in my free time i like improving my japanese
+In my free time I enjoy learning and improving my Japanese
 
 svtuczyn@uwaterloo.ca
