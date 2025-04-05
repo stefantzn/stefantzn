@@ -2,7 +2,7 @@ Second-year Computer Engineering Student at the University of Waterloo, set to g
 
 Interested in register-transfer level, embedded software, and real-time operating systems
 
-When not working with hardware, I enjoy learning the Japanese language
+When not working on code, I enjoy learning the Japanese language
 
 svtuczyn@uwaterloo.ca
 
