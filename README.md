@@ -6,6 +6,6 @@ Interested in safety-critical embedded software, mcu architecture, operating sys
 
 When not working on code, I'm trying my best to learn the Japanese language (下手です)
 
-feel free to reach me at svtuczyn@uwaterloo.ca
+Feel free to reach me at svtuczyn@uwaterloo.ca
 
 🌸
