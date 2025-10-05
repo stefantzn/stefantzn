@@ -1,11 +1,11 @@
 Hi, I'm Stefan
 
-I'm a second-year Computer Engineering Student at the University of Waterloo
+I'm a third-year Computer Engineering student at the University of Waterloo
 
-Interested in rtl design, embedded software, computer architecture, and hardware/software co-design  
+Interested in safety-critical embedded software, mcu architecture, operating systems, and rtl design
 
 When not working on code, I'm trying my best to learn the Japanese language (下手です)
 
-svtuczyn@uwaterloo.ca
+feel free to reach me at svtuczyn [at] uwaterloo [dot] ca
 
 🌸
